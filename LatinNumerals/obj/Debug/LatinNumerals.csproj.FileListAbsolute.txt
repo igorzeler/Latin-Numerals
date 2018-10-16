@@ -1,0 +1,7 @@
+C:\Users\igorz\source\repos\LatinNumerals\LatinNumerals\bin\Debug\LatinNumerals.exe.config
+C:\Users\igorz\source\repos\LatinNumerals\LatinNumerals\bin\Debug\LatinNumerals.exe
+C:\Users\igorz\source\repos\LatinNumerals\LatinNumerals\bin\Debug\LatinNumerals.pdb
+C:\Users\igorz\source\repos\LatinNumerals\LatinNumerals\obj\Debug\LatinNumerals.csprojAssemblyReference.cache
+C:\Users\igorz\source\repos\LatinNumerals\LatinNumerals\obj\Debug\LatinNumerals.csproj.CoreCompileInputs.cache
+C:\Users\igorz\source\repos\LatinNumerals\LatinNumerals\obj\Debug\LatinNumerals.exe
+C:\Users\igorz\source\repos\LatinNumerals\LatinNumerals\obj\Debug\LatinNumerals.pdb
